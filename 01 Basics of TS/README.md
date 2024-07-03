@@ -5,3 +5,7 @@
 ### 1.ts
 
 print data in console
+
+### 2.ts
+
+More about var
