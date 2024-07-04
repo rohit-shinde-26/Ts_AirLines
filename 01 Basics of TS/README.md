@@ -12,4 +12,8 @@ More about var
 
 ### 3.ts
 
-Let in ts
+Let and const in ts
+
+### 4.ts
+
+String indexing
