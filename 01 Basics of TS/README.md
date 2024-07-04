@@ -9,3 +9,7 @@ print data in console
 ### 2.ts
 
 More about var
+
+### 3.ts
+
+Let in ts
